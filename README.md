@@ -1,2 +1,2 @@
 # Python-Selenium-Allure
-Пример автотестов на Python + Selenium + Allure 📊
+Начала изучать автотесты на Python + Selenium + Allure 📊
